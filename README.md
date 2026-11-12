@@ -544,7 +544,6 @@ This repository mirrors the symbolic mathematics implementation and its establis
 - [ ] **sympy/utilities/tests/test_wester.py:3086** - # TODO: Replace solve with solveset, when it works for solveset
 - [ ] **sympy/vector/coordsysrect.py:927** - # TODO: trigsimp is needed here so that the matrix becomes
 - [ ] **sympy/vector/functions.py:586** - # TODO : The following line introduces a performance issue
-- [ ] **sympy/vector/operators.py:216** - # TODO: is case of many coord systems, this gets a random one:
 
 ## License
 
