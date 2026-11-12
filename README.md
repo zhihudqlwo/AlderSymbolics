@@ -4,7 +4,7 @@ This repository mirrors the symbolic mathematics implementation and its establis
 
 ### 📝 Complete TODO List
 
-- [ ] **sympy/vector/operators.py:216** - # TODO: is case of many coord systems, this gets a random one:
+- [ ] **sympy/assumptions/handlers/matrices.py:49** - # TODO: implement sathandlers system for the matrices.
 - [ ] **sympy/assumptions/handlers/matrices.py:79** - # TODO: implement sathandlers system for the matrices.
 - [ ] **sympy/assumptions/handlers/matrices.py:96** - # TODO: implement sathandlers system for the matrices.
 - [ ] **sympy/assumptions/handlers/order.py:226** - # TODO: This should be deducible from the nonzero handler
@@ -544,8 +544,9 @@ This repository mirrors the symbolic mathematics implementation and its establis
 - [ ] **sympy/utilities/tests/test_wester.py:3086** - # TODO: Replace solve with solveset, when it works for solveset
 - [ ] **sympy/vector/coordsysrect.py:927** - # TODO: trigsimp is needed here so that the matrix becomes
 - [ ] **sympy/vector/functions.py:586** - # TODO : The following line introduces a performance issue
-- [ ] **sympy/assumptions/handlers/matrices.py:49** - # TODO: implement sathandlers system for the matrices.
+- [ ] **sympy/vector/operators.py:216** - # TODO: is case of many coord systems, this gets a random one:
 
 ## License
 
 The source licenses are retained at the repository root.
+- [ ] **zz_control/extra.py:1** - control extra row
